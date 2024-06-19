@@ -1,0 +1,181 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:'Lucida Sans';
+    background-color: aliceblue;
+}
+
+img{
+    position: absolute;
+}
+
+#bg{
+    width: 100%;
+    height: 25vh;
+    color: white;
+    position: relative;
+    text-align: center;
+}
+
+#intro{
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    left: 60%;
+    font-size: 40px;
+}
+
+#bgimage{
+    position: relative;
+}
+
+nav{
+    background-color: rgba(167, 174, 180, 0.535);
+    width: 1518px;
+    height: 50px;
+    position: absolute;
+    top: 350px;
+    align-items: center;
+    margin: auto;
+    display: flex;
+}
+
+button{
+    position: absolute;
+    left: 1200px;
+    float: right;
+    height: 35px;
+    width: 250px;
+    font-size: medium;
+    border-radius: 20px;
+}
+
+#teach{
+    margin-left: 200px;
+}
+
+#logo{
+    font-size: 30px;
+    color: black;
+    margin-right: 50px;
+}
+
+#text1{
+    font-size: 30px;
+    margin-top: 250px;
+    text-align: center;
+}
+
+.popular{
+    position: relative;
+    margin-top: 70px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.popcourses{
+    display: flex;
+    margin-top: 30px;
+}
+
+.c{
+    width: 320px;
+    background-color: white;
+    margin: 15px;
+    border: 10px;
+    border-color: black;
+    border: 1px solid rgb(200, 199, 199);
+    border-radius: 10px;
+    font-size: large;
+    text-align: center;
+    padding-top: 260px;
+    padding-bottom: 20px;
+}
+
+#show{
+    margin-top: 175px;
+    font-size: 20px;
+}
+
+#peak{
+    position: relative;
+    top: 80px;
+}
+
+.learn-image{
+    position: relative;
+    display: flex;
+    top: 100px;
+}
+
+#learnimg{
+    left: 800px;
+}
+#learnimg4{
+    left: 1150px;
+}
+#learnimg3{
+    left: 800px;
+    top: 200px;
+}
+#learnimg2{
+    left: 1150px;
+    top: 200px;
+}
+
+#peak{
+    background-color: black;
+    color: white;
+    margin: 0px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.text{
+    margin: 15px;
+    padding: 15px;
+    font-size: 18px;
+    width: 700px;
+    background-color: white;
+    border-radius: 30px;
+    border: 1px solid rgb(200, 199, 199);
+}
+
+#webdev{
+    margin-top: 40px;
+    margin-left: 26px;
+    border-radius: 10px;
+}
+
+#python{
+    margin-top: 40px;
+    margin-left: 378px;
+    border-radius: 10px;
+}
+
+#digital{
+    margin-top: 40px;
+    margin-left: 730px;
+    border-radius: 10px;
+}
+
+#uiux{
+    margin-top: 40px;
+    margin-left: 1080px;
+    border-radius: 10px;
+}
+
+.mentor{
+    margin-top: 200px;
+    color: white;
+    background-color: black;
+    font-size: 20px;
+    padding: 10px;
+}
+
+#info{
+    margin: 30px;
+    font-size: 18px;
+}

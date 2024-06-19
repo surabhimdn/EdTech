@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+}
+
+img{
+    position: absolute;
+}
+
+.box{
+    position: relative;
+    top: 60px;
+    left: 500px;
+    width: 500px;
+    height: 550px;
+    background-color: white;
+    border: 1px solid rgb(184, 184, 184);
+    border-radius: 20px;
+    align-content: center;
+    text-align: center;
+}
+
+#welcome{
+    margin-bottom: 40px;
+    text-align: center;
+    background-color: white;
+    font-size: 30px;
+}
+
+.reg{
+    margin: 15px;
+    background-color: white;
+}
+
+.input{
+    background-color: white;
+    margin-bottom: 30px;
+}
+
+#register{
+    margin-top: 30px;
+    margin-bottom: 40px;
+    text-align: center;
+    background-color: white;
+    font-size: 30px;
+}
+
+#login{
+    text-align: center;
+    margin-top: 40px;
+}
+
+#done{
+    font-size: 20px;
+}
